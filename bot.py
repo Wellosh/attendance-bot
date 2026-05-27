@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 
 logging.basicConfig(level=logging.INFO)
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8722497069:AAFdU_2J_ghTmiuxoI-v3sjqpKmpPuomGaU")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8722497069:AAESVIlS8NNT00U9v31TS_TR7IPYOhniw00")
 DATA_FILE = "data.json"
 
 # ── ДАННЫЕ ────────────────────────────────────────────────
